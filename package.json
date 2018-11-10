@@ -1,6 +1,6 @@
 {
   "name": "bw-ping",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Latency real-time analytics",
   "main": "index.js",
   "author": "Krzysztof Siuda",
