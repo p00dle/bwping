@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+      "lib": ["es2017", "dom"],
+      "target": "es2017",
+      "module": "commonjs",
+      "sourceMap": true,
+      "baseUrl": "typings",
+      "typeRoots": ["node_modules/@types"],
+      "jsx": "react",
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,
+      "forceConsistentCasingInFileNames": true,
+      "noImplicitReturns": true,
+      "noImplicitThis": true,
+      "noImplicitAny": false,
+      "strictNullChecks": false,
+      "suppressImplicitAnyIndexErrors": true,
+      "noUnusedLocals": false,
+  },
+  "exclude": [
+      "node_modules/"
+  ],
+
+}

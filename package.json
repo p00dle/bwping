@@ -1,0 +1,19 @@
+{
+  "name": "bw-ping",
+  "version": "0.1.0",
+  "description": "Latency real-time analytics",
+  "main": "index.js",
+  "author": "Krzysztof Siuda",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.8",
+    "commander": "^2.19.0",
+    "marked": "0.3.3"
+  },
+  "devDependencies": {
+    "@types/blessed": "^0.1.10",
+    "@types/node": "^10.12.3"
+  }
+}

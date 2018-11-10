@@ -1,0 +1,10 @@
+{
+  "host": "eu.battle.net",
+  "timeout": 5000,
+  "threshold": 100,
+  "ttl": 55,
+  "bytes": 32,
+  "period": 10,
+  "refreshRate": 200,
+  "pingRate": 100
+}
